@@ -327,6 +327,8 @@ Kita perlu tambahkan variabel TextEditingController sehingga bisa membuat TextFi
 
    **Jawab:**
 
+   <img src = "assets/gambar_42.gif">
+
    Kode ini akan menampilkan halaman Master Plan Tyase yang berisi TextField untuk memasukkan nama rencana baru, lalu apabila selesai, maka akan tertampil pada daftar rencana yang sudah dibuat. Daftar rencana ini dapat di klik untuk menampilkan detail dari rencana yang sudah dibuat. Pada bagian daftar rencana terdapat pesan di bagian bawah seperti "2 out of 3 tasks".
 
 4. Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke dosen yang telah disepakati !
